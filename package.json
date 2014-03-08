@@ -1,9 +1,9 @@
 {
-  "name": "test-as-a-document",
+  "name": "dokudoc",
   "description": "Generate document from test code.",
   "version": "0.0.1",
   "repository": {
-    "url": "git://github.com/azu/test-as-a-document.git"
+    "url": "git://github.com/azu/dokudoc.git"
   },
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "azu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azu/test-as-a-document/issues"
+    "url": "https://github.com/azu/dokudoc/issues"
   },
   "devDependencies": {
     "power-assert": "~0.3.1",
