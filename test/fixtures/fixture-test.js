@@ -6,5 +6,10 @@ describe('Array', function () {
             assert.equal([1, 2, 3].indexOf(5), -1);
             assert.equal([1, 2, 3].indexOf(0), -1);
         })
+    });
+    describe('#take()', function () {
+        it('aa', function () {
+            assert.equal([1, 2, 3].indexOf(5), -1);
+        })
     })
 });
